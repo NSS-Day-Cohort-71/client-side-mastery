@@ -14,5 +14,6 @@ This project has very specific requirements for how you should structure and org
 | 6 | [Selling the Harvest](./chapters/MF_RENDER_HARVEST.md) |
 | 7 | [Optional Advanced Challenges](./chapters/MF_CHALLENGES.md) |
 | 8 | [Storage Barn Stack](./chapters/MF_SILO_STACK.md) |
+| 9 | [Food Processing Queue](./chapters/MF_PROCESS_QUEUE.md) |
 
 
